@@ -13,3 +13,4 @@
 
 ### Cheat Sheets
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [GitHub on Slack](https://github.com/integrations/slack#configuration)
