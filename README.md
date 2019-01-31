@@ -5,4 +5,4 @@ Links are divided per department:
 
 * [Frontend](/LINKS-FE.md)
 * [Backend](./LINKS-BE.md)
-* [Data-science](./LINKS-DATA.md)
+* [Data Science](./LINKS-DATA.md)
