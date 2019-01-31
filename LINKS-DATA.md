@@ -1,3 +1,3 @@
-# Data-science related links
+# Data Science related links
 
 ### Table of Contents
