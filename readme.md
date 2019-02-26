@@ -1,4 +1,4 @@
-# in-Team Knowledge Base
+# [in-Team Knowledge Base](https://in-team-development.github.io/Knowledge-Base/)
 This repository contains useful links, articles and sources.
 
 Short-lived links, like framework's new version release, should go on slack channel.
