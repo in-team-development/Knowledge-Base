@@ -21,6 +21,9 @@
 * [HOC with Angular Ivy](https://blog.nrwl.io/metaprogramming-higher-order-components-and-mixins-with-angular-ivy-75748fcbc310)
 
 ### React
+* [Functional vs Class Components](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
+* [Pros of functional Components](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
+* [Cons of functional Components](https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c)
 
 ### RxJS
 
