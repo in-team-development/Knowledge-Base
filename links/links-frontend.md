@@ -27,6 +27,7 @@
 * [React BEM styling](https://cheesecakelabs.com/blog/css-architecture-reactjs/)
 
 ### RxJS
+* [MergeMap vs SwitchMap](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 
 ### General
 * [Dav Abramov - _Things I Don’t Know as of 2018_](https://overreacted.io/things-i-dont-know-as-of-2018/)
