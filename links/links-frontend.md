@@ -36,6 +36,7 @@
 * [Rust + webGL + wasm](https://sandspiel.club/)
 * [WebAssembly](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
 * [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)
+* [Why not to use MomentJS](https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js)
 
 ### Cheat Sheets
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
