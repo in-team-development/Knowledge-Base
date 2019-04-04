@@ -2,6 +2,7 @@
 
 ### Table of Contents
 * [CSS](#css)
+* [JavaScript](#javascript)
 * [TypeScript](#typescript)
 * [Angular](#angular)
 * [React](#react)
@@ -12,6 +13,9 @@
 
 ### CSS
 * [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
+
+### JavaScript
+* [JavaScript.info](https://javascript.info/)
 
 ### TypeScript
 * [Conditional types in TypeScript](http://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
