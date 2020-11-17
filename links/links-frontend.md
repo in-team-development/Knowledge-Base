@@ -4,6 +4,7 @@
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [TypeScript](#typescript)
+* [Functional Programming in JS](#functional-programming-in-js)
 * [Angular](#angular)
 * [React](#react)
 * [General](#general)
@@ -19,6 +20,11 @@
 
 ### TypeScript
 * [Conditional types in TypeScript](http://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
+
+### Functional Programming in JS
+* [Function composition](https://jrsinclair.com/articles/2019/compose-js-functions-multiple-parameters/)
+* [Functional Combinators](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
+* [FP Articles](https://github.com/stoeffel/awesome-fp-js#articles)
 
 ### Angular
 * [Angular architecture patterns](https://netmedia.io/dev/angular-architecture-patterns-detailed-project-architecture_5619)
